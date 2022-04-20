@@ -7,3 +7,12 @@ Disk_Scheduling_Algorithms such as
 - LOOK.
 - C-LOOK.
 - the newly optimized algorithm
+
+![This is an image](https://github.com/Ahmed-Ibrahim-30/Disk_Scheduling_Algorithms/blob/main/Gui%20Picture/1.JPG?raw=true)
+![This is an image](https://github.com/Ahmed-Ibrahim-30/Disk_Scheduling_Algorithms/blob/main/Gui%20Picture/2.JPG?raw=true)
+![This is an image](https://github.com/Ahmed-Ibrahim-30/Disk_Scheduling_Algorithms/blob/main/Gui%20Picture/3.JPG?raw=true)
+![This is an image](https://github.com/Ahmed-Ibrahim-30/Disk_Scheduling_Algorithms/blob/main/Gui%20Picture/4.JPG?raw=true)
+![This is an image](https://github.com/Ahmed-Ibrahim-30/Disk_Scheduling_Algorithms/blob/main/Gui%20Picture/5.JPG?raw=true)
+![This is an image](https://github.com/Ahmed-Ibrahim-30/Disk_Scheduling_Algorithms/blob/main/Gui%20Picture/6.JPG?raw=true)
+![This is an image](https://github.com/Ahmed-Ibrahim-30/Disk_Scheduling_Algorithms/blob/main/Gui%20Picture/7.JPG?raw=true)
+![This is an image](https://github.com/Ahmed-Ibrahim-30/Disk_Scheduling_Algorithms/blob/main/Gui%20Picture/8.JPG?raw=true)
