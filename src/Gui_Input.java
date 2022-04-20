@@ -111,7 +111,7 @@ class Gui_Input extends JFrame implements ActionListener {
         jPanel2.setBounds(0,0,getWidth(),getHeight());
         jPanel2.setVisible(false);
 
-        label="Enter "+ch2+" devices:";
+        label="Enter "+ch2+" requests:";
         jPanel2.add(LabelSetting1(label));
         int y=40;
 
