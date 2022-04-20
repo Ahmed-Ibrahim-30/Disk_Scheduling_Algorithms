@@ -16,3 +16,6 @@ Disk_Scheduling_Algorithms such as
 ![This is an image](https://github.com/Ahmed-Ibrahim-30/Disk_Scheduling_Algorithms/blob/main/Gui%20Picture/6.JPG?raw=true)
 ![This is an image](https://github.com/Ahmed-Ibrahim-30/Disk_Scheduling_Algorithms/blob/main/Gui%20Picture/7.JPG?raw=true)
 ![This is an image](https://github.com/Ahmed-Ibrahim-30/Disk_Scheduling_Algorithms/blob/main/Gui%20Picture/8.JPG?raw=true)
+![This is an image](https://github.com/Ahmed-Ibrahim-30/Disk_Scheduling_Algorithms/blob/main/Gui%20Picture/9.JPG?raw=true)
+![This is an image](https://github.com/Ahmed-Ibrahim-30/Disk_Scheduling_Algorithms/blob/main/Gui%20Picture/10.JPG?raw=true)
+![This is an image](https://github.com/Ahmed-Ibrahim-30/Disk_Scheduling_Algorithms/blob/main/Gui%20Picture/11.JPG?raw=true)
