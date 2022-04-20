@@ -21,6 +21,7 @@ public class GUI implements ActionListener{
         discklable.setBounds(250,50,250,30);
         f.add(discklable);
 
+
         b1 = new JButton("FCFS Algorithm");//creating instance of JButton
         b1.setBounds(200, 100, 250, 40);
 
